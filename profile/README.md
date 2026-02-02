@@ -82,11 +82,3 @@ HVI-Diff achieves state-of-the-art performance on multiple benchmarks.
 ## 📧 Contact
 
 For any questions, please open an issue or contact shaoyangchp@gmail.com.
-
----
-
-### Instructions for you:
-
-1. **Replace placeholders**: Update `link-to-your-paper`, `email@example.com`, and any specific file paths or script names (`train.py`, `configs/`, etc.) to match your actual code structure.
-2. **Add Images**: Create an `assets/` folder in your repository and upload your architecture diagram (`final5.png`) and comparison images there so they show up in the README.
-3. **Copy and Paste**: Copy the text above into the `README.md` file on GitHub (the editing box in your screenshot).
