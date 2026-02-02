@@ -1,12 +1,6 @@
-Of course! Here is a draft for your `README.md` file for your GitHub repository `HVI-Diff`. This draft is tailored to a research paper implementation, covering typical sections like Introduction, Installation, Usage, and Citation.
-
----
-
 # HVI-Diff: Physically Decoupled Interactive Diffusion for Low-Light Image Enhancement
 
 This repository contains the official PyTorch implementation of the paper: **"HVI-Diff: Physically Decoupled Interactive Diffusion for Low-Light Image Enhancement"**.
-
-**[[Paper]](https://www.google.com/search?q=link-to-your-paper)** | **[[Project Page]](https://www.google.com/search?q=link-to-project-page-if-any)**
 
 ## 📖 Introduction
 
